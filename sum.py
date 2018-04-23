@@ -1,5 +1,5 @@
 # Simple Python program to Add Two Numbers
-a = 2
-b = 3
+a = 20
+b = 35
 sum = a + b
 print(sum)
